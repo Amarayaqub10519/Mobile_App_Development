@@ -8,11 +8,11 @@ export default function App() {
       <StatusBar style="auto" />
 
         <View style={styles2.container_1}>
-          <Text>Welcome To React Native</Text>
+          <Text>This is the class of 2026-2027 with react native</Text>
         </View>
 
         <View style={styles3.container_3}>
-          <Text>Welcome To React Native</Text>
+          <Text>By the end of this course, you will have a solid understanding of React Native development.</Text>
         </View>
 
     </View>
